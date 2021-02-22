@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea29cbe7-e64e-47a4-a001-abb8b0bf2597" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/.idea/FirDeExecutieLive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ClothingStore Catalin/.idea/ClothingStore Catalin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ClothingStore Catalin/ClothingStore/ClothingStore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/DesignPaterns/CreationalDesignPatern/FactoryMethod/FactoryMethod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/DesignPaterns/CreationalDesignPatern/PrototypeBMWDesignPattern/PrototypeDesignPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/DesignPaterns/CreationalDesignPatern/Singleton/Singleton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/DesignPaterns/CreationalDesignPatern/StrategyDesignPattern/DesignPatternStrategy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/DesignPaterns/CreationalDesignPatern/Teme/.idea/Teme.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/DesignPaterns/CreationalDesignPatern/Teme/Tema_Ex4_Strategy/Tema_Ex4_Strategy/Tema_Ex4_Strategy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/DesignPaterns/CreationalDesignPatern/Teme/Tema_Ex5_Decorator/Tema_Ex5_Decorator/Tema_Ex5_DecoratorAndFacade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/DesignPaterns/CreationalDesignPatern/Teme/Tema_Ex_2_Prototype/Tema_Ex_2_Prototype/Tema_Ex_2_Prototype.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/DesignPaterns/CreationalDesignPatern/Teme/Tema_Ex_3_FactoryMethod/Tema_Ex_3_FactoryMethod/Tema_Ex_3_FactoryMethod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/DesignPaterns/SelectionSortalgorithm/SelectionSortalgorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/DesignPaterns/StructuralDesignPatern/DesignPatternDecorator/DesignPatternDecorator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/DesignPaterns/StructuralDesignPatern/DesignPatternFacade/DesignPatternFacade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/DesignPaterns/StructuralDesignPatern/DesignPatternOperator/DesignPatternOperator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/DesignPaterns/StructuralDesignPatern/FacadeExample/FacadeExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/DesignPaterns/Tema-factoryMethod/Tema-factoryMethod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExecritiuCurs/ExercitiuCurs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/Exercitii cu algoritmi/ExercitiuAlgorithms/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/Exercitii cu algoritmi/ExercitiuAlgoritmi/ExercitiuAlgoritmi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/Exercitii cu algoritmi/ExercitiuAlgoritmi/ExercitiuAlgoritmi/.idea/ExercitiuAlgoritmi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExercitiiAlgoritmi/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExercitiiArrayNoi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExercitiiArrayNoi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExercitiiArrayNoi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExercitiiArrayNoi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExercitiiArrayNoi/ExercitiiArrayNoi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExercitiiArrayNoi/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExercitiiCitireFisiere/CitimDinFisier/CitimDinFisier.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExercitiiCitireFisiere/Exercitiu Fisiere/Exercitiu Fisiere.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExercitiiColectii/Collections/Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExercitiiColectii/EXercitiiColectiiMap/EXercitiiColectiiMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExercitiiColectii/ExercitiuListe/ExercitiuListe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExercitiiColectii/ExercitiuListe1/ExercitiuListe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExercitiiColectii/ExercitiuSet1/ExercitiuSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExercitiiColectii/ExercitiuSeturi/ExercitiuSeturi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExercitiiCuArrays2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExercitiiExceptii/ExercitiiExceptii.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExercitiiSortare/.idea/ExercitiiSortare.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExercitiiSortare/BubbleSort/BubbleSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExercitiiSortare/InsertionSort/InsertionSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/Exercitiu-clasa/Exercitiu-clasa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/ExercitiuArray@/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/HibernateBestPracticeOnSchool/HibernateBestPracticeOnSchool/HibernateBestPracticeOnSchool.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/HibernateBestPractices-Update-Relatii/.idea/HibernateBestPractices-Update-Relatii.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/HibernateBestPractices-Update-Relatii/HibernateBestPractices/HibernateBestPractices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/HibernateBestPractices/HibernateBestPractices/HibernateBestPractices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/HibernateDealer/.idea/HibernateDealer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/HibernateDealer/HibernateDealer/HibernateDealer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/HibernateITCompany/HibernateITCompany/HibernateITCompany.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/HibernateSchoolExercise/.idea/HibernateSchoolExercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/HibernateSchoolExercise/HibernateSchoolExercise/HibernateSchoolExercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/JDBCExercitiu/JDBCExercitiu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/LibraryHibernateBestPractices=updated/.idea/LibraryHibernateBestPractices=updated.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/LibraryHibernateBestPractices=updated/LibraryHibernateBestPractices/LibraryHibernateBestPractices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/LibrarySpring/LibrarySpring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/LibrarySpringUpdatedCRUD/.idea/LibrarySpringUpdatedCRUD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/LibrarySpringUpdatedCRUD/LibrarySpring/LibrarySpring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/MagazinElectronice/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/MagazinElectronice/src/Meniu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/MagazinElectronice/src/Products/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/MagazinElectronice/src/Products/HomeElectronics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/MagazinElectronice/src/Products/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/MagazinElectronice/src/Products/ProductFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/MagazinElectronice/src/Products/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/Practicaarray/Practicaarray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/Practicaarray/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/RecapSesion2/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/SdaGalati3JDBCExample/SdaGalati3JDBCExample/SdaGalati3JDBCExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirDeExecutieLive/SdaJavaGalati3HibernateExample/SdaJavaGalati3HibernateExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Core/Benzinarie/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Core/Benzinarie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Core/Benzinarie1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Core/Benzinarie1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Core/FitnessDeLaCata/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Core/FitnessDeLaCata/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Core/Lungimea/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Core/Lungimea/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Core/MagazinProduse/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Core/MagazinProduse/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestAlgo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestAlgo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDatealgo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDatealgo/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1lFZv4TiB7ExydOReO9JDCsCoLk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea29cbe7-e64e-47a4-a001-abb8b0bf2597" name="Default Changelist" comment="" />
+      <created>1607195026649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607195026649</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="490" y="233" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607195156983">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="490" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1607195156983" />
+  </component>
+</project>
